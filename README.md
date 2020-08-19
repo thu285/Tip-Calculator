@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/GwWin16.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/d162Pqj' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [GIPHY Capture](https://giphy.com/apps/giphycapture).
 
