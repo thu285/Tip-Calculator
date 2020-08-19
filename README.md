@@ -31,6 +31,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/GwWin16' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="GwWin16"><a href="//imgur.com/GwWin16"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 GIF created with [GIPHY Capture](https://giphy.com/apps/giphycapture).
 
 ## Notes
